@@ -105,10 +105,10 @@ Understanding and learning this knowledge in advance will greatly help the use o
 
 ```bash
 # clone the project
-git clone https://github.com/antero9471/vue-element-admin.git
+git clone https://github.com/harrialeksi/Vue-admin.git
 
 # enter the project directory
-cd vue-element-admin
+cd Vue-admin
 
 # install dependency
 npm install
